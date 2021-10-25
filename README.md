@@ -8,7 +8,7 @@ My name is Ronak Khandelwal and I'm an aspiring software developer/Data scientis
 
 ## Website
 
-I created [The JEE World](thejeeworld.wordpress.com) with the mission to provide free IIT-JEE preparation books PDF for free to those students who can't afford them. 
+I created [The JEE World](https://thejeeworld.wordpress.com/) with the mission to provide free IIT-JEE preparation books PDF for free to those students who can't afford them. 
 
 
 ## Connect with me
