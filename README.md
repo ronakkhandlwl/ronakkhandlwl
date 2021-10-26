@@ -4,7 +4,7 @@ My name is Ronak Khandelwal and I'm an aspiring software developer/Data scientis
 
 ## 🛠️ Technologies and Tools
 
-![](https://img.shields.io/badge/OS-Windows-green)  ![](https://img.shields.io/badge/OS-Linux-green)  ![](https://img.shields.io/badge/Editor-VS%20Code-blue)  ![](https://img.shields.io/badge/Editor-Jupyter%20Notebook-blue)  ![](https://img.shields.io/badge/Language-C%2B%2B-red)  ![](https://img.shields.io/badge/Language-Python-red)  ![](https://img.shields.io/badge/Language-PHP-red) ![](https://img.shields.io/badge/Tools-phpMyAdmin-lightgreen) ![](https://img.shields.io/badge/Tools-Wamp%20Server-lightgreen)
+![](https://img.shields.io/badge/OS-Windows-blueviolet)  ![](https://img.shields.io/badge/OS-Linux-blueviolet)  ![](https://img.shields.io/badge/Editor-VS%20Code-blue)  ![](https://img.shields.io/badge/Editor-Jupyter%20Notebook-blue)  ![](https://img.shields.io/badge/Language-C%2B%2B-red)  ![](https://img.shields.io/badge/Language-Python-red)  ![](https://img.shields.io/badge/Language-PHP-red) ![](https://img.shields.io/badge/Database-MySQL-orange) ![](https://img.shields.io/badge/Tools-phpMyAdmin-lightgreen)
 
 ## Website
 
