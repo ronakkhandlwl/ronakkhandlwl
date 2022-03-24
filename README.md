@@ -6,10 +6,6 @@ My name is Ronak Khandelwal and I'm an aspiring software developer/Data scientis
 
 ![](https://img.shields.io/badge/OS-Windows-blueviolet)  ![](https://img.shields.io/badge/OS-Linux-blueviolet)  ![](https://img.shields.io/badge/Editor-VS%20Code-blue)  ![](https://img.shields.io/badge/Editor-Jupyter%20Notebook-blue)  ![](https://img.shields.io/badge/Language-C%2B%2B-red)  ![](https://img.shields.io/badge/Language-Python-red)  ![](https://img.shields.io/badge/Language-PHP-red) ![](https://img.shields.io/badge/Database-MySQL-orange) ![](https://img.shields.io/badge/Tools-phpMyAdmin-lightgreen)
 
-## Website
-
-I created [The JEE World](https://thejeeworld.wordpress.com/) with the mission to provide free IIT-JEE preparation books PDF for free to those students who can't afford them. 
-
 
 ## Connect with me
 
